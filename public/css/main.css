@@ -53,6 +53,13 @@ h1 {
   color: black;
 }
 
-.li{
-  border: 1px solid black;
+.li {
+  padding: 0.3rem 2rem;
+  border: 1px solid #ced4da;
+  border-radius: .25rem;
+  box-shadow: 0.15s;
+  list-style: none;
 }
+
+
+
